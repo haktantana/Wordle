@@ -1,3 +1,2 @@
 # Wordle
-
 Word guessing game.
